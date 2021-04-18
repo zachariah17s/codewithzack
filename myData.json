@@ -1,25 +1,25 @@
 {
   "MyGuide": {
     "MyAds": {
-      "admob_interstitial_one": "ca-app-pub-3940256099942544/1033173712",
-      "admob_interstitial_two": "ca-app-pub-3940256099942544/1033173712",
-      "admob_interstitial_three": "ca-app-pub-3940256099942544/1033173712",
+      "admob_interstitial_one": "ca-app-pub-5530153234929616/3965802538",
+      "admob_interstitial_two": "ca-app-pub-5530153234929616/1789891877",
+      "admob_interstitial_three": "ca-app-pub-5530153234929616/1339639196",
 
-      "admob_banner_one": "ca-app-pub-3940256099942544/6300978111",
-      "admob_banner_two": "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_one": "ca-app-pub-5530153234929616/9026557521",
+      "admob_banner_two": "ca-app-pub-5530153234929616/6355822848",
 
-      "admob_native_home": "/6499/example/native",
-      "admob_native_details": "/6499/example/native",
+      "admob_native_home": "ca-app-pub-5530153234929616/2416577833",
+      "admob_native_details": "ca-app-pub-5530153234929616/6850646864",
 
-      "fb_interstitial_one": "IMG_16_9_APP_INSTALL#460111331987115_460118068653108",
-      "fb_interstitial_two": "IMG_16_9_APP_INSTALL#460111331987115_460118351986413",
-      "fb_interstitial_three": "IMG_16_9_APP_INSTALL#460111331987115_460118508653064",
+      "fb_interstitial_one": "296610565318913_296610935318876",
+      "fb_interstitial_two": "296610565318913_296611208652182",
+      "fb_interstitial_three": "296610565318913_296611488652154",
 
-      "fb_banner_one": "IMG_16_9_APP_INSTALL#460111331987115_460117315319850",
-      "fb_banner_two": "IMG_16_9_APP_INSTALL#460111331987115_460111641987084",
+      "fb_banner_one": "296610565318913_296611401985496",
+      "fb_banner_two": "296610565318913_296611851985451",
 
-      "fb_native_home": "IMG_16_9_APP_INSTALL#460111331987115_460117715319810",
-      "fb_native_details": "IMG_16_9_APP_INSTALL#460111331987115_460117851986463",
+      "fb_native_home": "296610565318913_296612318652071",
+      "fb_native_details": "296610565318913_296612628652040",
 
       "ads_network": "admob",
 
@@ -28,50 +28,36 @@
     },
     "Categories": [
         {
-          "title": "Project Demo",
+          "title": "How to Top Up Diamonds in Free Fire?",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item1"
         },
         {
-          "title": "System requirements",
+          "title": "How to Top Up Diamonds using In-Game Store?",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item2"
         },
         {
-          "title": "Installation process",
+          "title": "How to Top Up Diamonds Using Third-Party Websites?",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item3"
         },
         {
-          "title": "Be aware of the laws",
+          "title": "How to Redeem Codes in Free Fire?",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item4"
         },
         {
-          "title": "Use Avatarify",
+          "title": "How to Get Free Diamonds in Free Fire?",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item5"
         },
         {
-          "title": "Select a photo",
+          "title": "Free Fire Diamonds Best Offers Online",
           "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
           "content": "item6"
-        },
-        {
-          "title": "Animate the photo",
-          "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
-          "content": "item7"
-        },
-        {
-          "title": "Record a video",
-          "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
-          "content": "item8"
-        },
-        {
-          "title": "Add new avatars",
-          "image": "https://ewr1.vultrobjects.com/wombo/icone.jpeg",
-          "content": "item9"
         }
+       
     ],
     "item1" : [
       {
